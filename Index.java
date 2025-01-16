@@ -9,7 +9,7 @@ String number = "23541";
 
 String name = number.charAT(0);
 
-System.out.print("name");
+
 
 
 
